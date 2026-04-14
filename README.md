@@ -1,6 +1,8 @@
 ## AchievementVault – Gaming Hub
 
-> Projekt kojeg razvijam kroz laboratorijske vježbe iz kolegija **Web aplikacije u Javi**.
+> U razvoju
+
+Projekt kojeg razvijam kroz laboratorijske vježbe iz kolegija **Web aplikacije u Javi**.
 
 ### Opis projekta
 
