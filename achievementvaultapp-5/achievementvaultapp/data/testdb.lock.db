@@ -1,0 +1,6 @@
+#FileLock
+#Mon May 11 16:11:27 UTC 2026
+hostName=192.168.51.17
+id=19e17cebe3d56957de3fcb6337f31b4f842388c64b6
+method=file
+server=192.168.51.17\:58803
